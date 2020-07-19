@@ -6,6 +6,6 @@ $(document).ready(function() {
 	console.log($('.t-block')[0])
 	$('.t-block')[0].addEventListener('drag', handleTouch, false);
 	function handleTouch () {
-		// alert('message?: DOMString')
+		alert('testing drag')
 	}
 });
