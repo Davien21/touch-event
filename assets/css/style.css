@@ -1,0 +1,21 @@
+body {
+    background-color: #FAEBD7;
+    overflow-wrap: break-word;
+    min-height: 100vh;
+}
+
+.highlight {
+	color: #495057;
+	border-color: #80bdff;
+	outline: 0;
+	box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+	border-radius: 0.25rem;
+	transition: 0.15s ease-in-out;
+}
+.t-block {
+	height: 300px;
+}
+.tiny-svgs {
+	width: 40px;
+	height: 40px;
+}
